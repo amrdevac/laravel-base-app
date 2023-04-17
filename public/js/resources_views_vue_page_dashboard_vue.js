@@ -73,7 +73,7 @@ var render = function render() {
     staticStyle: {
       "font-weight": "bolder"
     }
-  }, [_vm._v("\n                            Welcome to Parking Ticket\n                        ")]), _vm._v(" "), _c("h3", [_vm._v(_vm._s(_vm.user.name))]), _vm._v(" "), _vm._m(0)])])])]), _vm._v(" "), _vm._m(1)])]);
+  }, [_vm._v("\n                            Dashboard\n                        ")]), _vm._v(" "), _c("h3", [_vm._v(_vm._s(_vm.user.name))]), _vm._v(" "), _vm._m(0)])])])]), _vm._v(" "), _vm._m(1)])]);
 };
 var staticRenderFns = [function () {
   var _vm = this,

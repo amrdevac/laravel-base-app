@@ -29,7 +29,7 @@
                 <div class="col-2 bg-dark text-white">
                     <div class="p-4">
                         <div class="text-center mb-5">
-                            <h4> <i class="fa fa-car me-2 text-primary" aria-hidden="true"></i> Parking App</h4>
+                            <h4>Base App</h4>
                         </div>
                         @foreach ($in_sidebars as $sidebar)
                             <router-link to="{{ $sidebar['link'] }}" class="text-white text-decoration-none h5 fw-light">

@@ -15,7 +15,7 @@
                         >
                             <div class="col-12 mt-5">
                                 <h2 style="font-weight: bolder">
-                                    Welcome to Parking Ticket
+                                    Dashboard
                                 </h2>
                                 <p class="text-secondary mt-3">
                                     Selamat datang kembali , <br />

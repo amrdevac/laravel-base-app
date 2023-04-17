@@ -471,7 +471,7 @@ __webpack_require__.r(__webpack_exports__);
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
-  return _c("section", [_c("LoginPage2"), _vm._v(" "), _c("LoginPage1"), _vm._v(" "), _c("div", {
+  return _c("section", [_c("LoginPage2"), _vm._v(" "), _c("div", {
     staticClass: "container-fluid position-relative overflow-hidden"
   }, [_c("div", {
     staticClass: "row"
@@ -499,7 +499,7 @@ var staticRenderFns = [function () {
     staticStyle: {
       "font-weight": "bolder"
     }
-  }, [_vm._v("\n                                Welcome to Parking Ticket\n                            ")]), _vm._v(" "), _c("p", {
+  }, [_vm._v("\n                                Dashboard\n                            ")]), _vm._v(" "), _c("p", {
     staticClass: "text-secondary mt-3"
   }, [_vm._v("\n                                Selamat datang kembali , "), _c("br"), _vm._v("\n                                silahkan login menggunakan akun milikmu\n                            ")])]);
 }, function () {

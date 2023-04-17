@@ -1,3 +1,4 @@
+
 <template>
     <div class="position-relative overflow-hidden">
         <div class="row">
@@ -6,7 +7,7 @@
                     <div class="row" style="height: 100vh">
                         <div class="col-12 mt-5">
                             <h2 style="font-weight: bolder">
-                                Welcome to Parking Ticket
+                                Dashboard
                             </h2>
                             <h3>{{ user.name }}</h3>
                             <p class="text-secondary mt-3">
